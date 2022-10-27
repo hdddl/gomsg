@@ -1,4 +1,8 @@
-package msg
+/*
+发送电子邮件
+*/
+
+package email
 
 import (
 	"net/smtp"
